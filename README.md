@@ -14,7 +14,7 @@ Measure-Command { <1brc comannd> | Out-Default }
 
 ### Results:
 
- * Simple Python: 18m44s
- * C++:
+ * Simple Python: 18m 44s
+ * Simple C++: 18m 20s
  * Rust:
  * Typescript:
